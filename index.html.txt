@@ -104,7 +104,7 @@
   </section>
 
   <footer>
-    تواصل معنا: abdullahz@qulty.solutions | +966541011046<br>
+    تواصل معنا: abdullahz@qulty.solutions |
     جميع الحقوق محفوظة © THE SYSTEM 2025
   </footer>
 </body>
