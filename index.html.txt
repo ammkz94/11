@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>THE SYSTEM - النظام التشغيلي الذكي</title>
+  <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Cairo', sans-serif;
+      background: linear-gradient(135deg, #c2f0ff, #b8ffb0);
+      color: #222;
+    }
+    header {
+      background-color: #004d99;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    .hero {
+      padding: 60px 20px;
+      text-align: center;
+    }
+    .hero h1 {
+      font-size: 36px;
+      color: #004d99;
+    }
+    .hero p {
+      font-size: 18px;
+      max-width: 600px;
+      margin: 20px auto;
+    }
+    .cta-button {
+      background-color: #00d18b;
+      color: white;
+      padding: 12px 24px;
+      border: none;
+      border-radius: 8px;
+      font-size: 16px;
+      cursor: pointer;
+      text-decoration: none;
+    }
+    section {
+      padding: 40px 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    section h2 {
+      color: #00695c;
+      margin-bottom: 20px;
+    }
+    ul li {
+      margin-bottom: 10px;
+    }
+    footer {
+      background-color: #004d99;
+      color: white;
+      text-align: center;
+      padding: 20px;
+      margin-top: 40px;
+    }
+    .form-section {
+      padding: 40px 20px;
+      background-color: #f1f8e9;
+      text-align: center;
+    }
+    iframe {
+      width: 100%;
+      max-width: 700px;
+      height: 1000px;
+      border: none;
+      border-radius: 8px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>THE SYSTEM</h1>
+    <p>نظام تشغيل ذكي موحد لإدارة الجودة، المشتريات، والمحاسبة</p>
+  </header>
+
+  <div class="hero">
+    <h1>ابدأ بتجربتك المجانية الآن</h1>
+    <p>نظام موحد يشمل كل ما تحتاجه لتشغيل مشروعك: SOP، المخزون، المحاسبة، والشراء في منصة واحدة سهلة الاستخدام.</p>
+    <a href="#form" class="cta-button">اطلب التجربة</a>
+  </div>
+
+  <section>
+    <h2>ماذا يقدم THE SYSTEM؟</h2>
+    <ul>
+      <li>🔹 توليد تلقائي للإجراءات التشغيلية (SOP)</li>
+      <li>🔹 خصم مباشر من المخزون حسب المبيعات</li>
+      <li>🔹 نظام محاسبة شامل ومتكامل مع الزكاة والضريبة</li>
+      <li>🔹 نظام شراء ذكي يطلب تلقائيًا عند نفاد الكمية</li>
+      <li>🔹 تقارير فورية دقيقة لاتخاذ قرارات أفضل</li>
+    </ul>
+  </section>
+
+  <section class="form-section" id="form">
+    <h2>نموذج طلب تجربة النظام</h2>
+    <p>املأ النموذج التالي وسنقوم بالتواصل معك لتفعيل التجربة خلال 24 ساعة:</p>
+    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdajfW8Cj7fn0ZVkMM2_qaoew4y4FpPArvpY48o5BpUmSSjPw/viewform?embedded=true" allowfullscreen></iframe>
+  </section>
+
+  <footer>
+    تواصل معنا: abdullahz@qulty.solutions | +966541011046<br>
+    جميع الحقوق محفوظة © THE SYSTEM 2025
+  </footer>
+</body>
+</html>
